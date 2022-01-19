@@ -24,5 +24,16 @@
       "subtitle": "Este es el video 4",
       "title": "Video 4"
     }
-  ]
+  ],
+ 
+ "comments": [
+  {
+   "id": 1,
+   "comment": "Comentario 1"
+  },
+  {
+   "id": 2,
+   "comment": "Comentario 2"
+  }
+ ]
 }
