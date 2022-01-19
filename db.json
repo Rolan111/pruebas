@@ -1,0 +1,12 @@
+[
+  {
+    "image": "./assets/images/imagen1.webp",
+    "subtitle": "Este es el video 1",
+    "title": "Video 1"
+  },
+  {
+    "image": "./assets/images/imagen2.webp",
+    "subtitle": "Este es el video 2",
+    "title": "Video 2",
+  }
+]
